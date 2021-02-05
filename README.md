@@ -6,3 +6,5 @@ Prérequis:
 Node/Npm
 + node-sass
 + browser-sync
+
+`init [nom-du-projet(optionel)]`
