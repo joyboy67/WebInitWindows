@@ -3,7 +3,7 @@ Initialisation de projet web front sur Windows
 
 Prérequis:
 
-Node/Npm
++ *Node/Npm*
 + node-sass
 + browser-sync
 
